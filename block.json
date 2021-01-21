@@ -1,0 +1,15 @@
+{
+  "apiVersion": 2,
+  "name": "neurosim/neurosim-publication-block",
+  "title": "Neurosim Publication Block",
+  "category": "widgets",
+  "icon": "smiley",
+  "description": "Custom publication block designed for the McGill NeuroSim group.",
+  "textdomain": "neurosim-publication-block",
+  "supports": {
+    "html": false
+  },
+  "editorScript": "file:./build/index.js",
+  "editorStyle": "file:./build/index.css",
+  "style": "file:./build/style-index.css"
+}

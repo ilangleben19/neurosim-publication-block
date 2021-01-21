@@ -1,0 +1,10 @@
+.neurosim-publication-image-selector .components-spinner {
+  margin: 0;
+  float: none;
+}
+.neurosim-publication-image-selector .components-button + .components-button {
+  margin-top: 1em;
+  margin-right: 8px;
+}
+
+/*# sourceMappingURL=index.css.map*/
